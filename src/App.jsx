@@ -6,7 +6,6 @@ const App = () => {
   return (
     <>
     <div className="app-background h-screen w-screen p-5">
-
       <Weather/>
     </div>
     </>
